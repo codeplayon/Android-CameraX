@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android CameraX</string>
+    <string name="preview_area">previewView</string>
+    <string name="capture">previewView</string>
+</resources>
